@@ -1,9 +1,10 @@
 {
   "name": "aplicacao_revista",
   "version": "1.0.0",
-  "description": "\"# Aplicacao Revista\"",
+  "description": "Projeto de exemplo para gerenciar uma aplicação de revista",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/viniciusmendes1/aplicacao_revista.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vinicius Mendes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/viniciusmendes1/aplicacao_revista/issues"
